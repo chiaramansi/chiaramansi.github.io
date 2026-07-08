@@ -3,9 +3,6 @@ layout: default
 title: Home
 ---
 
-# {{ site.title }}
-**{{ site.description }}**
-
 [<i class="fas fa-envelope"></i> Email](mailto:{{ site.email }}) | [<i class="ai ai-google-scholar"></i> Google Scholar]({{ site.google_scholar }}) | [<i class="ai ai-orcid"></i> ORCID](https://orcid.org/{{ site.orcid }}) | [<i class="ai ai-researchgate"></i> ResearchGate]({{ site.researchgate }}) | [<i class="fab fa-github"></i> GitHub](https://github.com/{{ site.github_username }})
 
 ---
@@ -30,3 +27,4 @@ Currently, my focus is on **monitoring the management effectiveness of Protected
 * [<i class="fas fa-book"></i> Publications](publications.md)
 * [<i class="fas fa-user"></i> About Me](about.md)
 * [<i class="fas fa-file-pdf"></i> Curriculum Vitae](cv.md)
+* 
