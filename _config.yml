@@ -1,12 +1,11 @@
 title: Chiara Mansi
-description: PhD student at the University of Tuscia
+description: PhD student at the University of Tuscia ✉️ chiara.mansi@unitus.it"
 theme: jekyll-theme-minimal 
 
 # Immagine del profilo (Assicurati di caricare la foto nella cartella assets/)
 logo: /assets/avatar.jpg
 
 # Contatti e Social
-email: chiara.mansi@unitus.it
 github_username: chiaramansi
 orcid: "0000-0003-0333-8261"
 
