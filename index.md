@@ -5,7 +5,7 @@ title: Home
 
 [<i class="fas fa-envelope"></i> Email](mailto:{{ site.email }}) | [<i class="ai ai-google-scholar"></i> Google Scholar]({{ site.google_scholar }}) | [<i class="ai ai-orcid"></i> ORCID](https://orcid.org/{{ site.orcid }}) | [<i class="ai ai-researchgate"></i> ResearchGate]({{ site.researchgate }}) | [<i class="fab fa-github"></i> GitHub](https://github.com/{{ site.github_username }})
 
-<img src="/assets/avatar.jpg" alt="Chiara Mansi - Fieldwork" style="width: 100%; max-height: 280px; object-fit: cover; border-radius: 6px; margin-top: 15px; margin-bottom: 10px;">
+<img src="/assets/banner.jpg" alt="Chiara Mansi - Fieldwork" style="width: 100%; max-height: 280px; object-fit: cover; border-radius: 6px; margin-top: 15px; margin-bottom: 10px;">
 
 ---
 ## Forest Ecosystem Dynamics Inside and Outside Protected Areas Under Climate Change
