@@ -18,22 +18,21 @@ As a PhD student in Forestry Science, I investigate how forest ecosystems respon
 
 ---
 
-### Research Insights & Visualizations
-
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <img src="/assets/research_plot.jpg" alt="Forest Structure and LST Analysis" style="width: 85%; max-height: 400px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <p style="font-style: italic; font-size: 0.9em; color: #555; margin-top: 8px;">
-    Figure 1: Conceptual workflow showcasing the integration of LiDAR structural metrics and satellite-derived Land Surface Temperature (LST).
-  </p>
-</div>
-
----
-
 ### Technical Expertise & Analytical Toolkit
 
 * **Advanced Remote & Proximal Sensing:** Processing and integrating multi-source, multi-scale geospatial data (LiDAR, Multi-spectral, and Thermal data).
 * **Data Science & Spatial Analytics:** Developing reproducible pipelines for large-scale spatial data analysis, predictive modeling, and advanced statistical computing. Fully integrated workflow utilizing **R/RStudio** and **Python** within isolated, version-controlled Conda environments.
 * **Ecological Foundations:** Grounding remote sensing insights into reality by calibrating models with long-term National Forest Inventories (NFI) across Mediterranean and temperate forest ecosystems.
+
+---
+### Research Insights & Visualizations
+
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/research_plot.jpg" alt="Forest Structure and LST Analysis" style="width: 85%; max-height: 400px; object-fit: contain; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <p style="font-style: italic; font-size: 0.9em; color: #555; margin-top: 8px;">
+    Figure 1: Conceptual workflow showcasing the integration of LiDAR metrics with satellite images [Image generated using Gemini].
+  </p>
+</div>
 
 ---
 
