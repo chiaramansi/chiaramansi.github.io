@@ -2,11 +2,28 @@
 layout: default
 title: Home
 ---
-<!-- BANNER PANORAMICO -->
-<img src="/assets/avatar.jpg" alt="Chiara Mansi - Fieldwork" style="width: 100%; max-height: 280px; object-fit: cover; border-radius: 6px; margin-top: 15px; margin-bottom: 10px;">
 
 [<i class="ai ai-google-scholar"></i> Google Scholar]({{ site.google_scholar }}) | [<i class="ai ai-orcid"></i> ORCID](https://orcid.org/{{ site.orcid }}) | [<i class="ai ai-researchgate"></i> ResearchGate]({{ site.researchgate }}) | [<i class="fab fa-github"></i> GitHub](https://github.com/{{ site.github_username }})
 
+---
+layout: default
+title: Home
+---
+
+[<i class="fas fa-envelope"></i> Email](mailto:{{ site.email }}) | [<i class="ai ai-google-scholar"></i> Google Scholar]({{ site.google_scholar }}) | [<i class="ai ai-orcid"></i> ORCID](https://orcid.org/{{ site.orcid }}) | [<i class="ai ai-researchgate"></i> ResearchGate]({{ site.researchgate }}) | [<i class="fab fa-github"></i> GitHub](https://github.com/{{ site.github_username }})
+
+<!-- BANNER PANORAMICO -->
+<img src="/assets/avatar.jpg" alt="Chiara Mansi - Fieldwork" style="width: 100%; max-height: 280px; object-fit: cover; border-radius: 6px; margin-top: 15px; margin-bottom: 10px;">
+
+---
+## Forest Ecosystem Dynamics Inside and Outside Protected Areas Under Climate Change
+
+### How do forest ecosystems—particularly those in Strict Reserves—react to climate change?
+
+As a PhD student in Forestry Science, I investigate how forest ecosystems respond to the increasing intensity of summer heat and drought.
+I have deepened my understanding of forest ecology under environmental stress. By integrating structural data from LiDAR (drone and Mobile Laser Scanning/MLS) with thermal imagery, I examine exactly how forest structure influences and mitigates LST. Developing a clear understanding of forest resilience is crucial for predicting the future of biodiversity, optimizing forest restoration, and modeling species range dynamics.
+
+**My PhD project focuses on monitoring the management effectiveness of Protected Areas.** I leverage both remote and proximal sensing to disentangle these complex ecological dynamics—an evaluation that is absolutely critical to achieving the UN Sustainable Development Goals (SDGs) and the global 30x30 biodiversity target.
 ---
 ## Forest Ecosystem Dynamics Inside and Outside Protected Areas Under Climate Change
 
