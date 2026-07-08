@@ -12,7 +12,7 @@ title: Home
 
 ### How do forest ecosystems—particularly those in Strict Reserves—react to climate change?
 
-As a PhD student in Forestry Science, I investigate how forest ecosystems respond to the increasing intensity of summer heat and drought. I have deepened my understanding of forest ecology under environmental stress. By integrating structural data from LiDAR (drone and Mobile Laser Scanning/MLS) with thermal imagery, I examine exactly how forest structure influences and mitigates Land Surface Temperature (LST). Developing a clear understanding of forest resilience is crucial for predicting the future of biodiversity, optimizing forest restoration, and modeling species range dynamics.
+As a **PhD student in Forestry Science**, I investigate how forest ecosystems respond to the increasing intensity of summer heat and drought. I have deepened my understanding of forest ecology under environmental stress. By integrating structural data from **LiDAR** (drone and Mobile Laser Scanning/MLS) with **thermal imagery**, I examine exactly how forest structure influences and mitigates Land Surface Temperature (LST). Developing a clear understanding of **forest resilience** is crucial for **predicting the future of biodiversity, optimizing forest restoration, and modeling species range dynamics**.
 
 **My PhD project focuses on monitoring the management effectiveness of Protected Areas.** I leverage both remote and proximal sensing to disentangle these complex ecological dynamics—an evaluation that is absolutely critical to achieving the UN Sustainable Development Goals (SDGs) and the global 30x30 biodiversity target.
 
