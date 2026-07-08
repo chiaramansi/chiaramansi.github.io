@@ -3,7 +3,7 @@ description: PhD student at the University of Tuscia
 theme: jekyll-theme-minimal
 
 # Immagine del profilo (Assicurati di caricare la foto nella cartella assets/)
-avatar: assets/avatar.jpg
+avatar: "{{ site.baseurl }}/assets/avatar.jpg"
 
 # Contatti e Social
 email: chiara.mansi@unitus.it
