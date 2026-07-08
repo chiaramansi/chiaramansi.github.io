@@ -1,67 +1,69 @@
-# Welcome to Jekyll!
+# ==============================================================================
+# JEKYLL FILE READING & STRUCTURE CONFIGURATION
+# ==============================================================================
+# This block manages how Jekyll reads, includes, and excludes files and folders 
+# during the site compilation process.
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# SOURCE ATTRIBUTION:
+# This file configuration and repository structure have been adapted from the 
+# academic website template created by Xianyu Yang.
+# Original repository: https://github.com/Xianyu-Yang/xianyu-yang.github.io.git
+# ==============================================================================
 
 # Site Settings
-title: "Chiara Mansi"
-description: "PhD student at the University of Tuscia"
-url: "https://chiaramansi.github.io" # Ricordati di aggiornare questo link se il dominio è diverso!
-repository: "chiaramansi/chiaramansi.github.io"
-google_scholar_stats_use_cdn: true
-theme: jekyll-theme-minimal 
-
-# Immagine del profilo / Logo
-logo: "/assets/avatar.jpg"
+title: "Chiara Mansi - PhD student at the University of Tuscia"
+description: "Living in armony with Nature."
+url: "https://https://chiaramansi.github.io/"
+repository               : "chiaramansi/chiaramansi.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
+#google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification: # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification: # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+#google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+#bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+#baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name: "Chiara Mansi"
-  avatar: "assets/avatar.jpg"
-  bio: "PhD student at the University of Tuscia"
-  location: "Viterbo, Italy"
-  employer: "University of Tuscia"
-  pubmed: 
-  googlescholar: "https://scholar.google.com/citations?hl=it&user=_F51acAAAAAJ"
-  email: "chiara.mansi@unitus.it"
-  researchgate: "https://www.researchgate.net/profile/Chiara-Mansi-3"
-  uri: 
-  bitbucket: 
-  codepen: 
-  dribbble: 
-  flickr: 
-  facebook: 
-  foursquare: 
-  github: "chiaramansi"
-  google_plus: 
-  keybase: 
-  instagram: 
-  impactstory: 
-  lastfm: 
-  linkedin: 
-  dblp: 
-  orcid: "https://orcid.org/0000-0003-0333-8261"
-  pinterest: 
-  soundcloud: 
-  stackoverflow: 
-  steam: 
-  tumblr: 
-  twitter: 
-  vine: 
-  weibo: 
-  xing: 
-  youtube: 
-  wikipedia: 
+  name             : "Chiara Mansi"
+  avatar           : "/assets/avatar.jpg"
+  bio              : "PhD project 'Evaluating the Protected Areas Management Effectivenss trhough remote and proximal sensing'"
+  location         : "Viterbo, Italy"
+  employer         : "University of Tuscia"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=_F51acAAAAAJ"
+  email            : "chiara.mansi@unitus.it"
+  researchgate     : "https://www.researchgate.net/profile/Chiara-Mansi-3"
+  uri              : 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "chiaramansi"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : # e.g., "linkedin username"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0000-0003-0333-8261"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
@@ -101,12 +103,14 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
 
 # Markdown Processing
 kramdown:
@@ -129,14 +133,17 @@ defaults:
       layout: default
       author_profile: true
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Europe/Rome
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 # Plugins
 plugins:
@@ -153,8 +160,12 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+
 # HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+
+
