@@ -38,5 +38,5 @@ As a **PhD student in Forestry Science**, I investigate how forest ecosystems re
 
 ### Explore More
 <!-- [<i class="fas fa-book"></i> Publications](/publications/) -->
-* [<i class="fas fa-user"></i> About Me](/about/)
+* [<i class="fas fa-user"></i> About Me](/about.html)
 * [<i class="fas fa-file-pdf"></i> Curriculum Vitae](/assets/CV_Chiara_Mansi.pdf)
