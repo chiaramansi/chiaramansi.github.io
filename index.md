@@ -6,25 +6,26 @@ title: Home
 [<i class="fas fa-envelope"></i> Email](mailto:{{ site.email }}) | [<i class="ai ai-google-scholar"></i> Google Scholar]({{ site.google_scholar }}) | [<i class="ai ai-orcid"></i> ORCID](https://orcid.org/{{ site.orcid }}) | [<i class="ai ai-researchgate"></i> ResearchGate]({{ site.researchgate }}) | [<i class="fab fa-github"></i> GitHub](https://github.com/{{ site.github_username }})
 
 ---
+## Forest Ecosystem Dynamics Inside and Outside Protected Areas Under Climate Change
 
-## FOREST ECOSYSTEM DYNAMICS · GLOBAL CHANGE ECOLOGY
+### How do forest ecosystems—particularly those in Strict Reserves—react to climate change?
 
-### How do forest ecosystems, in particular those in Protected Areas, react to climate change?
-I am a PhD student in Forestry Science exploring how tree populations and forest ecosystems respond to global environmental change. My research scales up demographic processes to predict the future of biodiversity, forest restoration, and species range dynamics.
+As a PhD student in Forestry Science, I investigate how forest ecosystems respond to the increasing intensity of summer heat and drought.
+I have deepened my understanding of forest ecology under environmental stress. By integrating structural data from LiDAR (drone and Mobile Laser Scanning/MLS) with thermal imagery, I examine exactly how forest structure influences and mitigates LST. Developing a clear understanding of forest resilience is crucial for predicting the future of biodiversity, optimizing forest restoration, and modeling species range dynamics.
 
-Currently, my focus is on **monitoring the management effectiveness of Protected Areas**. I integrate ecological theory with advanced computational workflows to develop structural and functional indicators of ecosystem health.
+**My PhD project focuses on monitoring the management effectiveness of Protected Areas**. I leverage both remote and proximal sensing to disentangle these complex ecological dynamics—an evaluation that is absolutely critical to achieving the UN Sustainable Development Goals (SDGs) and the global 30x30 biodiversity target.
 
 ---
 
-### Tech Stack & Toolkit
-* **Data Sources:** LiDAR, multi-spectral satellite imagery, and long-term forest inventories.
-* **Data Science:** Advanced statistical modeling, spatial analysis, and reproducible workflows using **RStudio** and **Conda**.
-* **Background:** Strong foundations in Sustainable Forest Management (ecological, economic, and socio-cultural dimensions) in Mediterranean and temperate ecosystems.
-
+### Technical Expertise & Analytical Toolkit
+* **Advanced Remote & Proximal Sensing:** Processing and integrating multi-source, multi-scale geospatial data.
+* **Data Science:** Developing reproducible pipelines for large-scale spatial data analysis, predictive modeling, and advanced statistical computing. Fully integrated workflow utilizing **R/RStudio** and **Python** within isolated, version-controlled Conda environments.
+* **Background:**Forest Ecology**
+: 
 ---
 
 ### Explore More
-* [<i class="fas fa-book"></i> Publications](publications.md)
+* [<i class="fas fa-book"></i> Publications](publications
 * [<i class="fas fa-user"></i> About Me](about.md)
 * [<i class="fas fa-file-pdf"></i> Curriculum Vitae](cv.md)
 * 
