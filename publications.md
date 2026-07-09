@@ -36,4 +36,4 @@ Francesco Solano, Chiara Mansi, Michele Baliva, Daniele Canestrelli, Alessandro 
 
 ### Un settore di 'Campagna Romana' a rischio di urbanizzazione (Valle Fontana - Valle delle Campanelle; Roma; Italia centrale). Un primo inquadramento finalizzato alla tutela
 Chiara Mansi, Michele Mansi, Dario La Montagna, Giuliano Fanelli, Lorenzo Nottari, Francesca Manzia, Corrado Battisti  
-*ALULA*, 29:1-2(2022), pp. 56-64. ISSN: 1126-8468.
+*ALULA*, 29:1-2(2022), pp. 56-64. ISSN: 1126-8468. [**[IRIS Sapienza]**](https://iris.uniroma1.it/handle/11573/1669472#)
