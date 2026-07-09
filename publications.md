@@ -16,9 +16,8 @@ The methodological workflow of this study integrates Landsat derived LST with sa
 
 The external scripts and resources customized for this research are outlined below:
 
-* <i class="fas fa-cloud-download-alt"></i> **Sentinel2 Imagery Acquisition:** Request script configuration via Sentinel Hub APIs for automated downloading and cloud-masking of Sentinel imagery.
-* <i class="fas fa-leaf"></i> **Biophysical Indicators Evalscripts:** Integration of custom scripts from the *Sentinel Hub Custom Script Repository* for the extraction and calculation of biophysical indicators (CCC, LAI and NDMI) applied to UNESCO old-growth beech forests.
-
+* <i class="fas fa-cloud-download-alt"></i> **Sentinel Imagery Acquisition:** Request script configuration via Sentinel Hub APIs for automated downloading and cloud-masking of Sentinel imagery. [**[Python Script]**](https://github.com/tuo-username/SentinelBio/blob/main/download_sentinel.py)
+* <i class="fas fa-leaf"></i> **Biophysical Indicators Collection:** Integration of custom scripts from the *Sentinel Hub Custom Script Repository* for the extraction and calculation of biophysical indicators (e.g., LAI, FVC, Cab) applied to UNESCO old-growth beech forests. [**[Processing Script]**](https://github.com/tuo-username/SentinelBio/blob/main/process_indicators.py)
 
 ---
 
