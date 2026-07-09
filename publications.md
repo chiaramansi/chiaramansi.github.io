@@ -37,3 +37,10 @@ Francesco Solano, Chiara Mansi, Michele Baliva, Daniele Canestrelli, Alessandro 
 ### Un settore di 'Campagna Romana' a rischio di urbanizzazione (Valle Fontana - Valle delle Campanelle; Roma; Italia centrale). Un primo inquadramento finalizzato alla tutela
 Chiara Mansi, Michele Mansi, Dario La Montagna, Giuliano Fanelli, Lorenzo Nottari, Francesca Manzia, Corrado Battisti  
 *ALULA*, 29:1-2(2022), pp. 56-64. ISSN: 1126-8468. [**[IRIS Sapienza]**](https://iris.uniroma1.it/handle/11573/1669472#)
+
+
+## Open Data
+
+### Harmonized terrestrial laser scanning forest dataset: 3D point clouds and tree-level attributes from five campaigns in Europe
+Miriam Herrmann, Marius Derenthal, Ephraim Amos Schmidt-Riese, Marion Stellmes, Florian Arendholz, Daria Alison Bäte, Jonas Ernst, Arvin Fakhri, Piet Jaki, Růžena Janoutová, Florian Katerndahl, Fabian Kempfer, Chiara Mansi, Johann Meindl, Barbora Navrátilová, Florian Plewnia, Thomas Ruhtz, Marius Scholl, Asad Waseem, Fabian Fassnacht  
+*Zenodo*, March 16, 2026. [**[DOI]**](https://doi.org/10.5281/zenodo.18670608)
