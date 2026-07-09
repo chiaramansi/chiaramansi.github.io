@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+[<i class="fas fa-user"></i> About Me](/about.html) | [<i class="fas fa-file-pdf"></i> Curriculum Vitae](/assets/CV_Chiara_Mansi.pdf) | [<i class="fas fa-book"></i> Publications & Code](/publications.html)
+
 [<i class="ai ai-google-scholar"></i> Google Scholar]({{ site.google_scholar }}) | [<i class="ai ai-orcid"></i> ORCID](https://orcid.org/{{ site.orcid }}) | [<i class="ai ai-researchgate"></i> ResearchGate]({{ site.researchgate }}) | [<i class="fa-brands fa-linkedin"></i> LinkedIn]({{ site.linkedin }})
 
 <img src="/assets/banner.jpg" alt="Chiara Mansi - Fieldwork" style="width: 100%; max-height: 280px; object-fit: cover; border-radius: 6px; margin-top: 15px; margin-bottom: 10px;">
@@ -33,10 +35,3 @@ As a **PhD student in Forestry Science**, I investigate how forest ecosystems re
     Figure 1: Conceptual workflow showcasing the integration of LiDAR metrics with satellite images [Image generated using Gemini].
   </p>
 </div>
-
----
-
-### Explore More
-* [<i class="fas fa-book"></i> Publications & Code](/publications.html)
-* [<i class="fas fa-user"></i> About Me](/about.html)
-* [<i class="fas fa-file-pdf"></i> Curriculum Vitae](/assets/CV_Chiara_Mansi.pdf)
